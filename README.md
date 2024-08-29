@@ -1,1 +1,1 @@
-Este repositorio contiene algoritmos para clasificar enfermedades
+Este repositorio contiene algoritmos para clasificar enfermedades.
